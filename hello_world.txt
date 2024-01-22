@@ -1,1 +1,2 @@
-hello squad
+Testing new commit shortcuts.
+Here we go! - :D
